@@ -14,7 +14,7 @@ Syntax:
 
      <list>.mult_delete(exp)
    
-     Will delete all items that match the expression
+  Will delete all items that match the expression
      
 
 Usage examples:  
