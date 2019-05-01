@@ -18,6 +18,7 @@ Syntax:
      
 
 Usage examples:  
+         
          my_list.mult_delete(it < 7);
 
          other_list.mult_delete(it.address > max_address);
